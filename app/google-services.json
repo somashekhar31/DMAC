@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426652276865",
+    "firebase_url": "https://dmac-b92af.firebaseio.com",
+    "project_id": "dmac-b92af",
+    "storage_bucket": "dmac-b92af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426652276865:android:a1bc3d614f3057dc",
+        "android_client_info": {
+          "package_name": "com.google.dmac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426652276865-qa9qkigrt9qh73de5u9d1j9fe4mp3sa6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC46ltvRVWFCeQlZbJU2ziKJI4sWMfDfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426652276865-qa9qkigrt9qh73de5u9d1j9fe4mp3sa6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
